@@ -10,8 +10,7 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+
 
 <h2><a src="(#descrição-do-projeto)"> :books: Descrição do Projeto </a></h2>
 
