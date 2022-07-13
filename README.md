@@ -28,7 +28,7 @@
 <img scr="" alt="">
 
 - Designer sugerido: [Figma]: https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358
-- Deploy: 
+- Deploy: https://matchiga.github.io/HZC-Desafio-Alura/
 
 <h2><a src="#tecnologias-utilizadas"> Técnicas e Tecnologias utilizadas </a></h2>
 
