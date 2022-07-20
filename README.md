@@ -4,31 +4,30 @@
 
 <h2> :paperclip: Tópicos </h2>
 
-* [Descrição do Desafio](#descricao-do-desafio)
+* [Descrição do Desafio](#descrição-do-desafio)
 * [Status do Desafio](#status-do-desafio)
-* [Layout da Aplicação e Acesso ao Projeto](#layout-da-aplicacao)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Layout da Aplicação](#layout-da-aplicação)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 
-
-<h2><a src="#descricao-do-desafio"> :books: Descrição do Projeto </a></h2>
+<h2><a src="#descrição-do-desafio">Descrição do Desafio</a></h2>
 
 <p>Monte a página de “Picos” do layout do Figma. O layout da página de “Picos” é bem semelhante à página “Home”, então você pode usar como base toda a estrutura e estilização construída durante o curso. Você pode seguir a abordagem que quiser para desenvolver o layout, mas o incentivo é usar tudo o que foi visto até aqui.</p>
 
-<h2><a src="#status-do-desafio"> :white_check_mark: Status do Desafio </a></h2>
+<h2><a src="#status-do-desafio">Status do Desafio</a></h2>
 
 > :construction: Desafio em construção :construction:
 
 >OBS: O desafio foi cumprido e finalizado, porém ainda pode ter melhorias.
 
-<h2><a src="#layout-da-aplicacao"> Layout da Aplicação e Acesso ao Projeto </a></h2>
+<h2><a src="#layout-da-aplicacao">Layout da Aplicação</a></h2>
 
 <img scr="" alt="">
 
 - Designer sugerido: [Figma]: https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358
 - Deploy: https://matchiga.github.io/HZC-Desafio-Alura/
 
-<h2><a src="#tecnologias-utilizadas"> Técnicas e Tecnologias utilizadas </a></h2>
+<h2><a src="#tecnologias-utilizadas">Tecnologias utilizadas</a></h2>
 
 * [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Flexbox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
