@@ -4,25 +4,24 @@
 
 <h2> :paperclip: Tópicos </h2>
 
-* [Descrição do Desafio](#descrição-do-desafio)
-* [Status do Desafio](#status-do-Desafio)
-* [Layout da Aplicação e Acesso ao Projeto](#Layout-da-aplicação)
+* [Descrição do Desafio](#descricao-do-desafio)
+* [Status do Desafio](#status-do-desafio)
+* [Layout da Aplicação e Acesso ao Projeto](#layout-da-aplicacao)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
 
-<h2><a src="(#descrição-do-projeto)"> :books: Descrição do Projeto </a></h2>
+<h2><a src="#descricao-do-desafio"> :books: Descrição do Projeto </a></h2>
 
 <p>Monte a página de “Picos” do layout do Figma. O layout da página de “Picos” é bem semelhante à página “Home”, então você pode usar como base toda a estrutura e estilização construída durante o curso. Você pode seguir a abordagem que quiser para desenvolver o layout, mas o incentivo é usar tudo o que foi visto até aqui.</p>
 
-<h2><a src="#status-do-Desafio"> :white_check_mark: Status do Desafio </a></h2>
+<h2><a src="#status-do-desafio"> :white_check_mark: Status do Desafio </a></h2>
 
 > :construction: Desafio em construção :construction:
 
 >OBS: O desafio foi cumprido e finalizado, porém ainda pode ter melhorias.
 
-<h2><a src="#Layout-da-aplicação"> Layout da Aplicação e Acesso ao Projeto </a></h2>
+<h2><a src="#layout-da-aplicacao"> Layout da Aplicação e Acesso ao Projeto </a></h2>
 
 <img scr="" alt="">
 
@@ -42,4 +41,4 @@ Necessário para abrir o Desafio:
 
 [<img src="https://avatars.githubusercontent.com/u/69000335?s=400&u=82b736f752c03d8dfa4facd6e5888fc2a6dedb94&v=4" width=115><br> <sub>Matheus Gonmes</sub>](https://github.com/Matchiga)
 
-Copyright ©️ 2022 Alura- Matheus Gomes
+Copyright ©️ 2022 Alura - Matheus Gomes
